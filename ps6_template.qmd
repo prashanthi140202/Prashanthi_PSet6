@@ -653,6 +653,9 @@ Road Closed-Event Plot:
 
 d. 
 A question like this could be: Where do the highest number of Major Accidents occur in Chicago?
+Answer: The highest number of Major Accidents occur in Northeastern Chicago.
+
+![App1_Accidents](App1_Accidents.png)
 
 e. 
 Adding a column on the duration of the alert would aid in analysis. 
